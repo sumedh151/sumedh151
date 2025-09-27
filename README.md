@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello world
 
 <!--
 **sumedh151/sumedh151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
